@@ -1,0 +1,1 @@
+UPDATE life_logs SET title = 'updated title' WHERE id = 2;

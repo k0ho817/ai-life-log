@@ -1,0 +1,1 @@
+DELETE FROM life_logs WHERE id = 2;
