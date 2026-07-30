@@ -1,1 +1,1 @@
-UPDATE life_logs SET title = 'updated title' WHERE id = 2;
+UPDATE life_logs SET title = 'trigger_test' WHERE id = 1;
